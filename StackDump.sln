@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackDump", "StackDump\StackDump.csproj", "{3E99C3C2-E0AF-4942-94B7-510B469319EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		x64|Any CPU = x64|Any CPU
+		x64|x64 = x64|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Debug|x64.ActiveCfg = Debug|x64
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Debug|x64.Build.0 = Debug|x64
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Release|x64.ActiveCfg = Release|x64
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.Release|x64.Build.0 = Release|x64
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.x64|Any CPU.ActiveCfg = x64|Any CPU
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.x64|Any CPU.Build.0 = x64|Any CPU
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.x64|x64.ActiveCfg = x64|x64
+		{3E99C3C2-E0AF-4942-94B7-510B469319EA}.x64|x64.Build.0 = x64|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
