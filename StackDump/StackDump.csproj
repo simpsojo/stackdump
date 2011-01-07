@@ -138,6 +138,6 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>$(SolutionDir)Dependencies\tools\ilmerge.exe  /out:$(SolutionDir)stackdump.exe $(TargetPath) $(SolutionDir)Dependencies\$(ConfigurationName)\MdbgCore.dll</PostBuildEvent>
+    <PostBuildEvent>"$(SolutionDir)Dependencies\tools\ilmerge.exe"  "/out:$(SolutionDir)stackdump.exe" "$(TargetPath)" "$(SolutionDir)Dependencies\x64\MdbgCore.dll"</PostBuildEvent>
   </PropertyGroup>
 </Project>
